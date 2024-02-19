@@ -1,0 +1,41 @@
+{
+    "Student":
+    {
+        "Name":[
+        {
+            "firstName": "Siddiq",
+            "lastName": "Khan"
+        },
+        {
+            "firstName": "Aditya",
+            "lastName": "Raj"
+        },
+        {
+            "firstName": "Manish",
+            "lastName": "Navani"
+        }
+    ],
+    "Branch":[
+        {
+            "branch": "CSE"
+        },
+        {
+            "branch": "ECE"
+        },
+        {
+            "branch": "MEC"
+        }
+    ],
+    "Semester":[
+        {
+            "semester": "semester1"
+        },
+        {
+            "semester": "semester2"
+        },
+        {
+            "semester": "semester3"
+        }
+    ]
+}
+}
